@@ -1,0 +1,37 @@
+body{
+    background-color: indigo;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-family: "Nerko One", cursive;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 100px;
+    text-shadow: 5px 0 black;
+    color: azure;
+}
+.heading{
+        display: flex;
+        justify-content: center;
+}
+h3{
+    font-family: "Sofadi One", system-ui;
+  color: azure;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 40px;
+}
+.play{
+    display: flex;
+    justify-content: space-evenly;
+     
+}
+.first{
+    justify-content: space-evenly;
+}
+.second{
+    justify-content: space-evenly;
+}
+
